@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GetLocation</string>
+    <string name="service_not_available">Service Not Available</string>
+    <string name="invalid_lat_long_used"><![CDATA[Invalid Longitude & Latitude Values]]></string>
+    <string name="no_address_found">No Address Found</string>
+    <string name="address_found">Address Found</string>
+    <string name="lat1"><b>Latitude: </b></string>
+    <string name="long1"><b>Longitude: </b></string>
+    <string name="title_activity_maps">Map</string>
+</resources>
